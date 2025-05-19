@@ -1,0 +1,13 @@
+E:\EC7\analisador\analisador\analisador\src\main\java\br\edu\fesa\Analisador.java
+E:\EC7\analisador\analisador\analisador\src\main\java\br\edu\fesa\lexico\Lexer.java
+E:\EC7\analisador\analisador\analisador\src\main\java\br\edu\fesa\lexico\TipoToken.java
+E:\EC7\analisador\analisador\analisador\src\main\java\br\edu\fesa\lexico\Token.java
+E:\EC7\analisador\analisador\analisador\src\main\java\br\edu\fesa\semantico\MensagemErro.java
+E:\EC7\analisador\analisador\analisador\src\main\java\br\edu\fesa\semantico\ResultadoAnalise.java
+E:\EC7\analisador\analisador\analisador\src\main\java\br\edu\fesa\semantico\Semantico.java
+E:\EC7\analisador\analisador\analisador\src\main\java\br\edu\fesa\semantico\Simbolo.java
+E:\EC7\analisador\analisador\analisador\src\main\java\br\edu\fesa\semantico\TabelaDeSimbolos.java
+E:\EC7\analisador\analisador\analisador\src\main\java\br\edu\fesa\sintatico\ArvoreSintatica.java
+E:\EC7\analisador\analisador\analisador\src\main\java\br\edu\fesa\sintatico\Parser.java
+E:\EC7\analisador\analisador\analisador\src\main\java\br\edu\fesa\sintatico\RetornoParser.java
+E:\EC7\analisador\analisador\analisador\src\main\java\br\edu\fesa\sintatico\TipoNo.java

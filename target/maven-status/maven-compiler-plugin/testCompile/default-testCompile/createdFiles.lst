@@ -1,0 +1,4 @@
+br\edu\fesa\lexico\LexerTests.class
+br\edu\fesa\sintatico\ParserTests.class
+br\edu\fesa\AnalisadorTests.class
+br\edu\fesa\semantico\SemanticoTests.class
